@@ -112,6 +112,33 @@ Daron already matches the skill level of a **DevSecOps Junior** or **Security Au
 
 ---
 
+# 📊 Skill Gap Analysis – Daron Valdivia
+
+This table compares industry expectations for junior security/DevSecOps roles with Daron’s current skill level. It also outlines the next steps to continue growing in each area.
+
+| Skill Area           | What companies expect                                           | Where Daron stands                                            | Next step / gap                             |
+|----------------------|----------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------|
+| Linux Admin          | Terminal, systemctl, permissions, logs                         | Ubuntu, hardening, services, advanced Bash                    | ✅ Already covered                           |
+| Networking básico    | IPs, subnets, NAT, ports, VPN basics                           | VPN, DNS, email infra, TLS port exposure                      | Deeper into VLAN, Wireshark analysis        |
+| DNS avanzado         | Glue records, authoritative zones, troubleshooting             | BIND with glue records in production                          | DNSSEC (optional)                           |
+| Email infra          | Postfix/Dovecot, TLS, auth, spam control                       | TLS + SPF/DKIM/DMARC running live                             | Fail2ban, greylisting (extra)               |
+| Scripting Bash       | CLI tools, automation scripts                                  | CIS benchmark runner, Jira automation                         | Flag parsing, add tests and docs            |
+| Python               | REST APIs, scripting, data manipulation                        | Solid foundation, Jira JSON tool                              | Build full CLI/API-based project            |
+| Docker               | Compose, networks, container security                          | Uses Docker + Compose for full stack                          | Learn multi-stage builds                    |
+| DevOps tools         | GitHub, CI/CD, infrastructure-as-code                          | Advanced GitHub, Copilot, Pages                               | Try GitHub Actions, start with Ansible      |
+| Cloud exposure       | Basic AWS/GCP (IAM, EC2, S3)                                   | Local lab, no cloud yet                                       | Try AWS Free Tier                           |
+| Cybersecurity        | Benchmarks, logging, secure design                             | CIS, TLS, DMARC, hands-on awareness                           | Map findings to MITRE ATT&CK                |
+| Project experience   | Structured repos, issue tracking, teamwork                     | Uses Jira, documented projects, versioned repos               | Contribute to open source                   |
+| Certifications       | Linux+/Network+/Security+                                      | Linux+ ✅, Network+ ✅                                         | Study for Security+                         |
+| Soft skills / WPM    | Communication, clarity, documentation, typing fluency          | Writes at 110 WPM, explains clearly, documents well           | Keep building visibility                    |
+
+---
+
+## 🧠 Final Note
+
+> Gaps are not failures — they're fuel for growth.  
+> Cybersecurity is a field of lifelong learning.  
+> Daron is already operating well above typical entry-level, and the path ahead is about refinement, not catching up.
 
 ## 📅 Last updated
 
