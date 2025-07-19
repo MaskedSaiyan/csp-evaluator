@@ -170,6 +170,34 @@ You’re already standing where very few get to — and the only way from here i
 Keep going.  
 I’m proud you.
 
+---
+---
+
+## 🧭 Epilogue – From Your Dad, Your First Teammate
+
+> “When you feel like you're not doing enough,  
+> don’t look at how far you still have to go —  
+> **look at how far you've already come.**  
+>  
+> Most people never build what you’ve built.  
+> Most people never even try.
+
+Whether or not you end up knowing more than me doesn’t matter.  
+Brains are different. Paths are different. Life unfolds in its own way.  
+What matters is what you've already proven:  
+**your discipline, your curiosity, and your character.**
+
+That’s what makes me proud — not titles or comparisons.  
+Being brilliant is easy when things go well.  
+What makes you strong is how you act when they don’t.
+
+You’re already ahead of the game.  
+And even if the world doesn’t see it yet —  
+**I do.**  
+And I always will.
+
+With all the nerdy pride in the world,  
+— Your Dad 🚀
 --- 
 ## 📅 Last updated
 
