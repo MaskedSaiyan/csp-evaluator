@@ -138,7 +138,7 @@ This table compares industry expectations for junior security/DevSecOps roles wi
 
 > Gaps are not failures — they're fuel for growth.  
 > Cybersecurity is a field of lifelong learning.  
-> Daron is already operating well above typical entry-level, and the path ahead is about refinement, not catching up.
+> Son you are already operating well above typical entry-level, and the path ahead is about refinement, not catching up.
 
 ## 📅 Last updated
 
