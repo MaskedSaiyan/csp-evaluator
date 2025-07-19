@@ -1,143 +1,118 @@
-# 🚀 Proyecto de Vida - [Tu Nombre Aquí]
+# 🚀 Life Project – Daron Valdivia
 
-> “A record of what I’ve built, learned, broken, and become.”
-
----
-
-## 👤 Sobre mí
-
-Soy un estudiante de Ciberseguridad en Texas A&M con pasión por la automatización, la infraestructura segura y el conocimiento autodidacta. Me encanta resolver problemas del mundo real con herramientas open source, scripting, y una buena terminal.
+> “A record of what Daron has built, learned, broken, and become.”
 
 ---
 
-## 🌐 Idiomas
+## 👤 About
 
-- 🇲🇽 Español (nativo)  
-- 🇺🇸 Inglés (fluido/nativo – formación académica en EE.UU. desde middle school)
-
----
-
-## 🧾 Perfil actual (a semanas de entrar a la universidad)
-
-A pesar de no haber comenzado formalmente la universidad, ya cuento con experiencia práctica y conocimientos técnicos que superan ampliamente el nivel junior típico. Me especializo en:
-
-- Infraestructura auto-hospedada segura (DNS, correo, VPN)  
-- Automatización con Bash, APIs (Jira), y contenedores Docker  
-- Seguridad de red (TLS, DMARC, puertos críticos, autenticación)  
-- Uso profesional de herramientas como GitHub, **Jira**, Copilot y Neovim  
-- Participación en competencias técnicas (BPA Linux Admin, CyberPatriot)
-
-### 🔍 Nivel técnico actual
-
-✔️ Equivalente a un perfil **DevSecOps junior / Security Automation Intern**  
-✔️ Experiencia en infraestructura real, despliegue, hardening, y scripting  
-✔️ Capaz de contribuir a proyectos técnicos reales desde el primer día
-
-> Busco seguir desarrollando estas habilidades mientras formalizo mis estudios en Ciberseguridad en Texas A&M.
+Daron is a bilingual cybersecurity student accepted into Texas A&M. Before even starting university, he has already built and deployed secure home infrastructure, automated real-world workflows, competed nationally, and developed a hands-on skillset far beyond entry level.
 
 ---
 
-## 🧠 Skills técnicas actuales
+## 🌐 Languages
 
-| Área | Detalles |
-|------|----------|
-| **Linux** | Ubuntu, shell scripting (bash, fish), hardening, servicios |
-| **Networking** | VPNs, DNS con glue records, redireccionamiento y cifrado de servicios |
-| **DevOps** | Docker, Docker Compose, GitHub Pages, integración con Jira, scripting |
-| **Seguridad** | CIS benchmarks, SPF/DKIM/DMARC, TLS, exposición segura de puertos |
-| **Automatización** | Jira REST API, generación de tickets desde JSON |
-| **Certificaciones** | CompTIA Linux+, CompTIA Network+ |
+- 🇲🇽 Spanish – native  
+- 🇺🇸 English – native-level fluency (studied in the U.S. since middle school)
 
 ---
 
-## 💻 Setup actual
+## 🔎 Current Profile
 
-- 💡 **Editor:** Neovim custom con plugins, LSP, integración con **GitHub Copilot**  
-- 🐚 **Shell:** Fish + Oh My Fish  
-- 🧱 **Infra:** Todo autohospedado en casa: DNS, mail, VPN, AP (en progreso)  
-- 🐳 **Contenedores:** Full stack en Docker + Docker Compose  
+Daron already matches the skill level of a **DevSecOps Junior** or **Security Automation Intern**, with hands-on experience, technical maturity, and an engineer's mindset.
 
----
+### ✅ Highlights
 
-## 🌐 Infraestructura destacada
-
-### 📨 Servidor de correo personal
-
-- Postfix (SMTP) + Dovecot (IMAP)  
-- TLS con certificados válidos  
-- Publicación de puertos: **25 (SMTP), 110 (IMAP), 993 (IMAPS)**  
-- DNS con registros A/MX/TXT y autenticación SPF, DKIM, DMARC
-
-### 📡 Servidor DNS autoritativo
-
-- BIND configurado con **glue records**  
-- Publicación del puerto **53 (UDP y TCP)** a internet  
-- Zona autoritativa para dominio propio
-
-### 🔐 Seguridad
-
-- Cifrado TLS en todos los servicios públicos  
-- Exposición controlada de puertos externos  
-- Contenedores Docker aislando cada servicio
-
-> Toda la infraestructura está **auto-hospedada en casa**, orquestada con Docker Compose, y documentada para mantenimiento.
+- Self-hosted secure infrastructure (DNS, mail, VPN)  
+- Bash automation + Python foundations  
+- Jira automation via REST API + JSON  
+- TLS deployment, port management, and reputation protocols  
+- Writes 110 WPM and configures zsh + Copilot + Neovim  
+- Real deployments, real tools, real learning
 
 ---
 
-## 🏆 Logros y competencias
+## 🧠 Technical Skills
 
-- 🥇 11.º lugar nacional en **Linux Administrator - BPA** (Business Professionals of America, Florida)  
-- 🛡️ Participante de **CyberPatriot** durante high school – llegaron a etapa **regional**  
-- 🐳 Uso avanzado de **Docker y Docker Compose** para desarrollo, servicios y pruebas de seguridad  
-
----
-
-## 📂 Proyectos personales destacados
-
-| Nombre | Descripción | Tech stack |
-|--------|-------------|------------|
-| `cis-benchmark-runner.sh` | Script bash para auditar Ubuntu con CIS benchmarks | Bash, Lynis, Docker |
-| `jira-ticketer.py` | Automatiza creación de tickets Jira desde JSON | Python, Jira REST API |
-| `mail-stack` | Infra de correo con Postfix + Dovecot + TLS + DMARC | Docker, DNS, OpenSSL |
-| `my-network` | Infra casera con firewall, DNS, y VPN segura | DNS, WireGuard, logs |
+| Domain          | Tools & Experience |
+|----------------|--------------------|
+| **Linux**       | Ubuntu, hardening, Bash scripting, system services |
+| **Networking**  | VPN, BIND with glue records, TLS exposure |
+| **DevOps**      | Docker, Docker Compose, GitHub, Pages, Copilot |
+| **Automation**  | Jira REST API, JSON workflows |
+| **Security**    | CIS benchmarks, SPF, DKIM, DMARC |
+| **Languages**   | Bash (advanced), Python (solid foundations) |
+| **Certifications** | CompTIA Linux+, CompTIA Network+ |
 
 ---
 
-## 🧭 Objetivos a corto plazo
+## 💻 Work Environment
 
-- [ ] Terminar la configuración de su propio Access Point con red segmentada  
-- [ ] Participar en un CTF (HackTheBox o TryHackMe)  
-- [ ] Contribuir a un repo open source  
-- [ ] Documentar todos mis proyectos en GitHub con README completo  
-- [ ] Crear una sección de blog en mi página personal  
-
----
-
-## 🛣️ Objetivos a largo plazo
-
-- [ ] Obtener la certificación Security+  
-- [ ] Trabajar en un internship técnico (cloud, ciberseguridad o DevOps)  
-- [ ] Publicar una herramienta de seguridad útil  
-- [ ] Escribir mi primer post técnico viral  
+- 💡 **Editor:** Neovim + Copilot + LSP  
+- 🐚 **Shell:** zsh (after testing Bash and Fish)  
+- ⌨️ **Typing Speed:** 110 WPM  
+- 🧱 **Lab:** Fully self-hosted DNS, mail, VPN, firewall, AP (in progress)  
+- 🐳 **Stack:** Docker + Docker Compose  
 
 ---
 
-## 🔖 Mis recursos favoritos
+## 🌐 Infrastructure Overview
 
-- [HackTricks](https://book.hacktricks.xyz/)  
-- [TryHackMe](https://tryhackme.com/)  
-- [Linux Handbook](https://linuxhandbook.com/)  
-- [DevDocs.io](https://devdocs.io/)  
-- [MITRE ATT&CK](https://attack.mitre.org/)  
+### 📨 Mail Server
+
+- Postfix + Dovecot  
+- TLS via Let's Encrypt  
+- Ports: 25, 110, 993  
+- SPF, DKIM, DMARC configured  
+- All services in Docker containers
+
+### 📡 DNS Server
+
+- Authoritative BIND with glue records  
+- Port 53 open (UDP + TCP)  
+- Self-hosted domain
 
 ---
 
-## ❤️ Filosofía
+## 🏆 Achievements
 
-> *“No quiero aprender a hacer lo mismo que todos, quiero entender por qué funciona y cómo romperlo para hacerlo mejor.”*
+- 🥇 11th place – **Linux Administrator @ BPA Nationals (Florida)**  
+- 🛡️ Regional finalist in **CyberPatriot**  
+- 🧠 Built complete self-hosted infrastructure with encryption and auth  
+- 🛠️ Developed Jira ticket automation system with JSON input
 
 ---
 
-## ✍️ Última actualización
+## 📂 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [`cis-benchmark-runner`](https://github.com/youruser/cis-benchmark-runner) | Runs CIS benchmarks on Ubuntu | Bash, Docker |
+| [`jira-ticketer`](https://github.com/youruser/jira-ticketer) | Creates Jira epics/stories/tasks from JSON | Python, Jira REST API |
+| `mail-stack` | Secure mail infra at home | Postfix, Dovecot, Docker |
+| `my-network` | VPN, DNS, firewall stack | WireGuard, BIND, Linux |
+
+---
+
+## 🎯 Short-Term Goals
+
+- [ ] Finalize segmented Access Point setup  
+- [ ] Participate in a CTF (TryHackMe or HackTheBox)  
+- [ ] Contribute to an open source project  
+- [ ] Launch a personal blog on GitHub Pages  
+
+---
+
+## 🚀 Long-Term Goals
+
+- [ ] Earn CompTIA Security+  
+- [ ] Land an internship in cloud/security/DevOps  
+- [ ] Publish a useful open-source tool  
+- [ ] Write a viral technical article  
+
+---
+
+
+## 📅 Last updated
 
 > 2025-07-19
